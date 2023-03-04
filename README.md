@@ -13,7 +13,10 @@
 <h3>Feel free juga untuk melihat source codenya, terima kasih!</h3>
 <br>
 
-![image](https://user-images.githubusercontent.com/71064059/222913723-e51d0fb1-998b-4840-b308-a6b6cc91b14e.png)
+![image](https://user-images.githubusercontent.com/71064059/222917104-183588db-8428-4f0b-bba4-3d8540e53414.png)
+
+
+<!---![image](https://user-images.githubusercontent.com/71064059/222913723-e51d0fb1-998b-4840-b308-a6b6cc91b14e.png) -->
 
 # How To Use
 <h3>1. Download The Executable</h3>
